@@ -1,50 +1,58 @@
 [
   {
-    "id": "964c2ceb-eee4-41ca-b223-82f7d4855098",
+    "id": "001",
     "name": "Muriel",
     "last_name": "Buckley",
-    "birthdate": "2023-12-23T10:53:44 +08:00"
+    "birth_date": "2023-12-23",
+    "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog1.jpg"
   },
   {
-    "id": "68794a6e-3767-4675-8d03-9ae7672af49e",
+    "id": "002",
     "name": "Clements",
     "last_name": "Holt",
-    "birthdate": "2015-03-03T04:04:29 +08:00"
+    "birth_date": "2015-03-03",
+    "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog2.webp"
   },
   {
-    "id": "32c4c7ba-2cf9-44ae-8aea-60e1d5ec277d",
+    "id": "003",
     "name": "Greer",
     "last_name": "Guy",
-    "birthdate": "2020-10-12T08:12:26 +07:00"
+    "birth_date": "2020-10-12",
+    "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog3.jpg"
   },
   {
-    "id": "7c94a04d-39ce-4085-a863-536bf726117c",
+    "id": "004",
     "name": "Paulette",
     "last_name": "Mclaughlin",
-    "birthdate": "2022-07-12T07:37:06 +07:00"
+    "birth_date": "2022-07-12",
+    "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog4.jpeg"
   },
   {
-    "id": "466205a6-bdf1-49e2-902b-56c6d0f3a9f8",
+    "id": "005",
     "name": "Calhoun",
     "last_name": "Parks",
-    "birthdate": "2015-01-24T11:02:51 +08:00"
+    "birth_date": "2015-01-24",
+    "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog5.jpg"
   },
   {
-    "id": "f3e64aad-e3cf-4529-8b9e-bc1591b4278d",
+    "id": "006",
     "name": "Bates",
     "last_name": "Winters",
-    "birthdate": "2024-06-07T09:48:03 +07:00"
+    "birth_date": "2024-06-07",
+    "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog1.jpg"
   },
   {
-    "id": "58897a01-1e84-42cb-ba43-27a0f370da6d",
+    "id": "007",
     "name": "Augusta",
     "last_name": "Johnson",
-    "birthdate": "2018-01-25T08:23:39 +08:00"
+    "birth_date": "2018-01-25",
+    "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog2.webp"
   },
   {
-    "id": "72d5e464-515d-4a8b-9299-69102fdc518d",
+    "id": "008",
     "name": "Lela",
     "last_name": "Ball",
-    "birthdate": "2023-07-14T09:34:52 +07:00"
+    "birth_date": "2023-07-14",
+    "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog4.jpeg"
   }
 ]
