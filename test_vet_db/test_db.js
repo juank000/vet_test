@@ -3,56 +3,56 @@ export const USERS_DB = [
     "id": "001",
     "name": "Muriel",
     "last_name": "Buckley",
-    "birth_date": "2023-12-23",
+    "date": "2023-12-23",
     "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog1.jpg"
   },
   {
     "id": "002",
     "name": "Clements",
     "last_name": "Holt",
-    "birth_date": "2015-03-03",
+    "date": "2015-03-03",
     "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog2.webp"
   },
   {
     "id": "003",
     "name": "Greer",
     "last_name": "Guy",
-    "birth_date": "2020-10-12",
+    "date": "2020-10-12",
     "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog3.jpg"
   },
   {
     "id": "004",
     "name": "Paulette",
     "last_name": "Mclaughlin",
-    "birth_date": "2022-07-12",
+    "date": "2022-07-12",
     "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog4.jpeg"
   },
   {
     "id": "005",
     "name": "Calhoun",
     "last_name": "Parks",
-    "birth_date": "2015-01-24",
+    "date": "2015-01-24",
     "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog5.jpg"
   },
   {
     "id": "006",
     "name": "Bates",
     "last_name": "Winters",
-    "birth_date": "2024-06-07",
+    "date": "2024-06-07",
     "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog1.jpg"
   },
   {
     "id": "007",
     "name": "Augusta",
     "last_name": "Johnson",
-    "birth_date": "2018-01-25",
+    "date": "2018-01-25",
     "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog2.webp"
   },
   {
     "id": "008",
     "name": "Lela",
     "last_name": "Ball",
-    "birth_date": "2023-07-14",
+    "date": "2023-07-14",
     "pet_image": "https://raw.githubusercontent.com/juank000/vet_test/master/test_vet_imgs/dog4.jpeg"
   }
 ]
